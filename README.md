@@ -1,3 +1,14 @@
+I've been using Flym for a long time, but it has been discontinued.
+Great app, fantastic RSS reader.
+My project is to keep it alive; i will start in the middle of december.
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+                            Original Readme.md by Flym creator
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
 [![API](https://img.shields.io/badge/API-21%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=21)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/fredericjulian)
 
